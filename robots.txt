@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodrumwasuel.github.io/sitemap.xml
